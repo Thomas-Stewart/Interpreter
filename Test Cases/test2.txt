@@ -1,0 +1,12 @@
+if(1<2)
+{
+display "yes";
+if(1>2)
+{
+display "no";
+}
+if (1<2)
+{
+display "yes";
+}
+}
